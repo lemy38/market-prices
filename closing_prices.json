@@ -1,37 +1,4 @@
 {
-  "2025-04-25": {
-    "tqqq": 26.93,
-    "qqq": 472.56,
-    "soxl": 12.34,
-    "soxx": 184.81,
-    "btc": 93348.03,
-    "sp500": 5525.21,
-    "nasdaq": 17382.94,
-    "djia": 40113.5,
-    "vix": 24.84
-  },
-  "2025-04-26": {
-    "tqqq": null,
-    "qqq": null,
-    "soxl": null,
-    "soxx": null,
-    "btc": 94847.29,
-    "sp500": null,
-    "nasdaq": null,
-    "djia": null,
-    "vix": null
-  },
-  "2025-04-27": {
-    "tqqq": null,
-    "qqq": null,
-    "soxl": null,
-    "soxx": null,
-    "btc": 94225.3,
-    "sp500": null,
-    "nasdaq": null,
-    "djia": null,
-    "vix": null
-  },
   "2025-04-28": {
     "tqqq": 26.91,
     "qqq": 472.41,
@@ -1240,7 +1207,7 @@
     "sp500": 6449.8,
     "nasdaq": 21622.98,
     "djia": 44946.12,
-    "vix": 15.09
+    "vix": null
   },
   "2025-08-16": {
     "tqqq": null,
@@ -2395,7 +2362,7 @@
     "sp500": 6849.09,
     "nasdaq": 23365.69,
     "djia": 47716.42,
-    "vix": null
+    "vix": 16.35
   },
   "2025-11-29": {
     "tqqq": null,
@@ -4013,5 +3980,38 @@
     "nasdaq": 24836.6,
     "djia": 49230.71,
     "vix": 18.71
+  },
+  "2026-04-25": {
+    "tqqq": null,
+    "qqq": null,
+    "soxl": null,
+    "soxx": null,
+    "btc": 77456.7722,
+    "sp500": null,
+    "nasdaq": null,
+    "djia": null,
+    "vix": null
+  },
+  "2026-04-26": {
+    "tqqq": null,
+    "qqq": null,
+    "soxl": null,
+    "soxx": null,
+    "btc": 77632.0704,
+    "sp500": null,
+    "nasdaq": null,
+    "djia": null,
+    "vix": null
+  },
+  "2026-04-27": {
+    "tqqq": 62.64,
+    "qqq": 664.23,
+    "soxl": 123.39,
+    "soxx": 455.41,
+    "btc": 77371.8256,
+    "sp500": 7173.91,
+    "nasdaq": 24887.1,
+    "djia": 49167.79,
+    "vix": null
   }
 }
